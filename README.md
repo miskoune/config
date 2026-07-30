@@ -1,5 +1,7 @@
 # @miskoune/config
 
+[![npm](https://img.shields.io/npm/v/@miskoune/config)](https://www.npmjs.com/package/@miskoune/config)
+
 Reusable ESLint and Prettier configuration for TypeScript and React projects.
 
 ## Features
